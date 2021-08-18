@@ -1,3 +1,4 @@
+# last in first out LIFO
 class MyStack:
 
     def __init__(self):
