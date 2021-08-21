@@ -34,3 +34,8 @@ ourlist = [int(x) for x in ourlist]
 merge_sort(ourlist, 0, len(ourlist))
 print('output - ordered elements: ')
 print(ourlist)
+
+
+# implementation of merge sort. new approach
+
+
