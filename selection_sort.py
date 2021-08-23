@@ -5,6 +5,7 @@ def selection_sort(list):
     """
     compares each element in the list whether its smaller than the previous one
     if true it moves the element to a new list and the process continues recursively
+    has time complexity of O(log n)
     """
     sorted_list = []
     for i in range(0, len(list)):
